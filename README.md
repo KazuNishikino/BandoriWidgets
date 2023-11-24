@@ -13,6 +13,7 @@
 
 # Download (Available via Releases)
 Method A: You can download the .rmskin file and click on `Install` as it will added to the Skins folder.
+
 Method B: Download and extract the zip archive in `...\Rainmeter\Skins\`.
 
 The widgets won't show up afterward. Please set it up manually based on the server you are playing with.
